@@ -1,0 +1,23 @@
+.configSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  padding: 5px;
+  border: 1px solid #000;
+  background-color: #599ad7;
+}
+
+.configSection .configBtn {
+  background-color: #31ccde;
+  border-radius: 3px;
+
+  padding: 10px;
+  color: white;
+}
+
+
+
+
+
+

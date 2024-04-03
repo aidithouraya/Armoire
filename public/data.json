@@ -1,0 +1,38 @@
+{
+  "engines": [
+    {
+      "id": 1,
+      "name": "CRIBLE JE 100",
+      "status": {
+        "Etat Disjoncteur": "normal",
+        "Etat Relais TH": "normal",
+        "Etat Sectionneur": "normal",
+        "Etat KM1": "normal",
+        "Elat Fusible": "normal",
+        "Etat KM2": "normal",
+        "Etat Boulon A-U": "normal",
+        "Etat KM3": "normal"
+      },
+      "concentration": "0.5 ppm",
+      "temperature": "25°C",
+      "humidity": "50%"
+    },
+    {
+      "id": 2,
+      "name": "BROYEUR WB 100",
+      "status": {
+        "Etat Disjoncteur": "normal",
+        "Etat Relais TH": "normal",
+        "Etat Sectionneur": "normal",
+        "Etat KM1": "normal",
+        "Elat Fusible": "normal",
+        "Etat KM2": "normal",
+        "Etat Boulon A-U": "normal",
+        "Etat KM3": "normal"
+      },
+      "concentration": "0.5 ppm",
+      "temperature": "25°C",
+      "humidity": "50%"
+    }
+  ]
+}

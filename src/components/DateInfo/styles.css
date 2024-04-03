@@ -1,0 +1,44 @@
+.dateInfo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #599ad7;
+}
+
+.dateInfo .dateContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  width: 200px;
+  max-width: 200px;
+  height: 50px;
+}
+.dateInfo .timeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  width: 125px;
+  max-width: 200px;
+  height: 50px;
+
+}
+.dateInfo .dateValue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: white;
+    flex: 1;
+    color: black;
+    width: 100%;
+}
+
+.dateInfo .label {
+  color: white;
+}

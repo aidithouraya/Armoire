@@ -1,0 +1,26 @@
+.otherInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #000;
+  padding: 5px;
+  background-color: #599ad7;
+  gap: 5px;
+}
+.otherInfo .item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;    
+}
+.otherInfo .item .infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  background-color: white;
+  color: black;
+  clip-path: polygon(0% 15%, 0 0, 15% 0%, 85% 0%, 92% 7%, 100% 15%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 8% 93%, 0% 85%);
+  width: 125px;
+  height: 30px;
+}
